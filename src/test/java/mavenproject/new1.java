@@ -12,6 +12,7 @@ public class new1 extends baseclass{
 		pass(txtpass,"123456");
 		WebElement login = driver.findElement(By.id("loginbutton"));
 		click(login);
-	System.out.println("marcellin");
+       System.out.println("marcellin");
+       System.out.println("bala");
 }
 }
