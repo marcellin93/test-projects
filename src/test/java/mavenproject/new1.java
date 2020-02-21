@@ -14,7 +14,9 @@ public static void main(String[] args) {
 	click(login);
 	System.out.println("*****************************");
     System.out.println("********************END***************************");
-    System.out.println("******************** new 3rd update ***************************");
+    System.out.println("****************** 3rd update **********************");
+    System.out.println("******************** new 3rd update **************************");
+   
 
 }
 }
