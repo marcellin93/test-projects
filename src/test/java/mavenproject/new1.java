@@ -16,8 +16,8 @@ public class new1 extends baseclass{
 	    System.out.println("********************END***************************");
 	    System.out.println("****************** 3rd update **********************");
 	    System.out.println("******************** new 3rd update **************************");
-	    System.out.println("******************///////////////////////////////////*********************");
-	    System.out.println("marcellin");
+	    System.out.println("******************//////////////////////////////////*********************");
+	    System.out.println("michu");
    
 }
 }
