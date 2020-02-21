@@ -15,5 +15,6 @@ public class new1 extends baseclass{
        System.out.println("marcellin");
        System.out.println("bala");
        System.out.println("rowena");
+       System.out.println("malar");
 }
 }
