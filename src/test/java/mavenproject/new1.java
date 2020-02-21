@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	WebElement login = driver.findElement(By.id("loginbutton"));
 	click(login);
 	System.out.println("*****************************");
+    System.out.println("********************END***************************");
 
 }
 }
