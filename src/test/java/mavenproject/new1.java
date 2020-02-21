@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	pass(txtpass,"123456");
 	WebElement login = driver.findElement(By.id("loginbutton"));
 	click(login);
+	System.out.println("*****************************");
 
 }
 }
